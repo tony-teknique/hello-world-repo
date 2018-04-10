@@ -4,7 +4,7 @@
 
   <default revision="master" remote="github" />
 
-  <project  path="./"
+  <project  path="hello-world-repo/repo/"
             name="tony-teknique/hello-world-repo.git"
             remote="github"
             revision="refs/heads/master" />
