@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote name="github" fetch="ssh://git@github.com/" />
+
+  <default revision="master" remote="github" />
+
+  <project  path="./"
+            name="tony-teknique/hello-world-repo.git"
+            remote="github"
+            revision="refs/heads/master" />
+
+  <project  path="hello-world/repo"
+            name="tony-teknique/hello-world.git"
+            remote="github"
+            revision="refs/heads/master" />
+
+</manifest>
